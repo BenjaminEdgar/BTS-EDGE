@@ -1,0 +1,7 @@
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\bin\Debug\EDGE.dll
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\bin\Debug\EDGE.pdb
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\obj\Debug\EDGE.csprojResolveAssemblyReference.cache
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\obj\Debug\EDGE.dll
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\obj\Debug\EDGE.pdb
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\obj\Debug\EDGE.Properties.Resources.resources
+c:\Users\ben-e\OneDrive\my documents\visual studio 2015\Projects\BTS\EDGE\obj\Debug\EDGE.csproj.GenerateResource.Cache
